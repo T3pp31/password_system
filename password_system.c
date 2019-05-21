@@ -1,6 +1,6 @@
 #include<stdio.h>
 int a;
-int b=1887; //好きな数字を指定,setting your own password
+int b=####; //####には好きな数字を指定,setting your own password to ####
 
 int main(){
   printf("パスワードを入力してください");
